@@ -5,7 +5,6 @@
   "dependencies": {
     "docpad": "~6.79.4",
     "docpad-plugin-associatedfiles": "~2.3.0",
-    "docpad-plugin-cleancss": "~2.1.0",
     "docpad-plugin-coffeescript": "~2.6.0",
     "docpad-plugin-eco": "~2.2.1",
     "docpad-plugin-ghpages": "~2.6.1",
